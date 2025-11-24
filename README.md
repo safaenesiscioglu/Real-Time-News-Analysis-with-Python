@@ -38,5 +38,5 @@ It fetches news articles, analyzes their sentiment, classifies them into categor
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/sei-news-analyzer.git
+git clone https://github.com/safaenesiscioglu/sei-news-analyzer.git
 cd sei-news-analyzer
